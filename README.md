@@ -11,3 +11,14 @@ Supports original English commands and parameters, and supports running batch an
 If you need to view the command list, you can download it and run it, then enter "帮助" to view it.
 若您感觉这个项目还不错，请给作者一个"Star"，谢谢！
 If you think this project is good, please give the author a "Star". Thank you!
+------------------------------------------------------------------------------
+# 更新日志
+## v3.6 (2026.2.12)
+1.补充了CMD所有命令
+2.首次开源
+3.与Rindows分开发布
+## v2.3 (2026.2.1)
+1.添加自定义命令、颜色调节和映像管理
+2.内置在Rindows 1.9 Pro中
+## v2.0 (2026.1.28)
+1.首次内置在Rindows 1.8中
