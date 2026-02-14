@@ -9,9 +9,8 @@ It comes with almost all the commands of the built-in CMD. You can now do in Chi
 Supports original English commands and parameters, and supports running batch and cmd scripts!
 ### 若您需要查看命令列表，您可将它下载下来运行，并输入“帮助”查看。
 If you need to view the command list, you can download it and run it, then enter "帮助" to view it.
-若您感觉这个项目还不错，请给作者一个"Star"，谢谢！
+### 若您感觉这个项目还不错，请给作者一个"Star"，谢谢！
 If you think this project is good, please give the author a "Star". Thank you!
-------------------------------------------------------------------------------
 # 更新日志
 ## V4.2 (2026.2.15)
  1.添加GUI界面，不再使用原版CMD界面
@@ -25,7 +24,7 @@ If you think this project is good, please give the author a "Star". Thank you!
  2.内置在Rindows 1.9 Pro中
 ## v2.0 (2026.1.28)
  1.首次内置在Rindows 1.8中
-#国内下载地址
+# 国内下载地址
 ## v4.2：
 1.      https://www.123865.com/s/qZQkjv-wz9jv
 2.      https://xcrin.lanzouu.com/b019vok9hi   密码:cmdzh
