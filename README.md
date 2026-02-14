@@ -13,12 +13,32 @@ If you need to view the command list, you can download it and run it, then enter
 If you think this project is good, please give the author a "Star". Thank you!
 ------------------------------------------------------------------------------
 # 更新日志
+## V4.2 (2026.2.15)
+ 1.添加GUI界面，不再使用原版CMD界面
+ 2.功能继承了v3.6所有功能
 ## v3.6 (2026.2.12)
-1.补充了CMD所有命令
-2.首次开源
-3.与Rindows分开发布
+ 1.补充了CMD所有命令
+ 2.首次开源
+ 3.与Rindows分开发布
 ## v2.3 (2026.2.1)
-1.添加自定义命令、颜色调节和映像管理
-2.内置在Rindows 1.9 Pro中
+ 1.添加自定义命令、颜色调节和映像管理
+ 2.内置在Rindows 1.9 Pro中
 ## v2.0 (2026.1.28)
-1.首次内置在Rindows 1.8中
+ 1.首次内置在Rindows 1.8中
+#国内下载地址
+## v4.2：
+      https://www.123865.com/s/qZQkjv-wz9jv
+      https://xcrin.lanzouu.com/b019vok9hi   密码:cmdzh
+      https://share.feijipan.com/s/OTQ2DQWR
+## v3.6：
+      https://www.123865.com/s/qZQkjv-gz9jv
+      https://xcrin.lanzouu.com/b019vok9kb   密码:cmdzh
+      https://share.feijipan.com/s/JBQ2D5VQ
+## v2.3：
+      https://www.123865.com/s/qZQkjv-Fz9jv
+      https://xcrin.lanzouu.com/b019vok9lc   密码:cmdzh
+      https://share.feijipan.com/s/FVQ2D7Dw
+## v2.0：
+      https://www.123865.com/s/qZQkjv-Yz9jv
+      https://xcrin.lanzouu.com/b019vok9md   密码:91gk
+      https://share.feijipan.com/s/swQ2DvrV
