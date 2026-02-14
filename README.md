@@ -27,18 +27,18 @@ If you think this project is good, please give the author a "Star". Thank you!
  1.首次内置在Rindows 1.8中
 #国内下载地址
 ## v4.2：
-      https://www.123865.com/s/qZQkjv-wz9jv
-      https://xcrin.lanzouu.com/b019vok9hi   密码:cmdzh
-      https://share.feijipan.com/s/OTQ2DQWR
+1      https://www.123865.com/s/qZQkjv-wz9jv
+2      https://xcrin.lanzouu.com/b019vok9hi   密码:cmdzh
+3      https://share.feijipan.com/s/OTQ2DQWR
 ## v3.6：
-      https://www.123865.com/s/qZQkjv-gz9jv
-      https://xcrin.lanzouu.com/b019vok9kb   密码:cmdzh
-      https://share.feijipan.com/s/JBQ2D5VQ
+1      https://www.123865.com/s/qZQkjv-gz9jv
+2      https://xcrin.lanzouu.com/b019vok9kb   密码:cmdzh
+3      https://share.feijipan.com/s/JBQ2D5VQ
 ## v2.3：
-      https://www.123865.com/s/qZQkjv-Fz9jv
-      https://xcrin.lanzouu.com/b019vok9lc   密码:cmdzh
-      https://share.feijipan.com/s/FVQ2D7Dw
+1      https://www.123865.com/s/qZQkjv-Fz9jv
+2      https://xcrin.lanzouu.com/b019vok9lc   密码:cmdzh
+3      https://share.feijipan.com/s/FVQ2D7Dw
 ## v2.0：
-      https://www.123865.com/s/qZQkjv-Yz9jv
-      https://xcrin.lanzouu.com/b019vok9md   密码:91gk
-      https://share.feijipan.com/s/swQ2DvrV
+1      https://www.123865.com/s/qZQkjv-Yz9jv
+2      https://xcrin.lanzouu.com/b019vok9md   密码:91gk
+3      https://share.feijipan.com/s/swQ2DvrV
