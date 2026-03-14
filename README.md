@@ -12,6 +12,10 @@ If you need to view the command list, you can download it and run it, then enter
 ### 若您感觉这个项目还不错，请给作者一个"Star"，谢谢！
 If you think this project is good, please give the author a "Star". Thank you!
 # 更新日志
+## V4.4 (2026.3.14)
+ 1.添加外观设置，检查更新等
+ 2.基础功能与v5.0相同
+ 3.添加了软件图标
 ## V4.3 (2026.2.17)
  1.添加浏览器功能
  2.背景不会那么黑了
@@ -28,8 +32,12 @@ If you think this project is good, please give the author a "Star". Thank you!
 ## v2.0 (2026.1.28)
  1.首次内置在Rindows 1.8中
 # 国内下载地址
+## v4.4:
+1.      https://www.123865.com/s/qZQkjv-GdQjv
+2.      https://share.feijipan.com/s/lH1nEScn 
 ## v4.3:
-1.      敬请期待
+1.      https://www.123865.com/s/qZQkjv-PdQjv
+2.      https://share.feijipan.com/s/nM1nFOdV
 ## v4.2：
 1.      https://www.123865.com/s/qZQkjv-wz9jv
 2.      https://xcrin.lanzouu.com/b019vok9hi   密码:cmdzh
